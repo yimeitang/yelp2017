@@ -15,6 +15,7 @@ You could download them here: https://www.yelp.com/dataset/challenge
 
 Each restaurant example has 15 features and among them, only the "attributes" and "review_count" features are related the the ratings.
 After analyzing the "attributes" feature, I got 37 different amenities features and some of them are highly indicative of restaurant ratings. 
+
 ![corkage](https://user-images.githubusercontent.com/27776652/33225535-fc33e2c6-d13e-11e7-9893-950bd8ed481b.PNG)
 ![credit](https://user-images.githubusercontent.com/27776652/33225536-fc41a1c2-d13e-11e7-8ba7-615665ecced1.PNG)
 ![smoking](https://user-images.githubusercontent.com/27776652/33225537-fc501b08-d13e-11e7-87d1-f262c8e14474.PNG)
